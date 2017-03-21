@@ -7,7 +7,7 @@ The first tool is meant to filter/format data in database over an XML file, to b
 
 The second tool just extract rules using a decision tree.
 
-#Important
+# Important
 
 To note that the database "base.db" must be placed in "C:\", and the program should run as administrator.
 
