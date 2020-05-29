@@ -9,6 +9,6 @@ The second tool just extract rules using a decision tree.
 
 # Important
 
-To note that the database "base.db" must be placed in "C:\", and the program should run as administrator.
+To note that the database "base.db" must be placed in "C:\\", and the program should run as administrator.
 
 This program is free to use and modify, under the context of this license.
